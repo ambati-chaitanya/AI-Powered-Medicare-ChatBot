@@ -61,35 +61,41 @@ The **AI-Powered Medicare Chatbot** is designed to assist users with Medicare-re
 ## Screenshots
 
 ### Chatbot Interface
-![WhatsApp Image 2024-10-14 at 15 56 01_70a54796](https://github.com/user-attachments/assets/5c60c550-5f52-4722-ac57-5b219105dbe9)
+![WhatsApp Image 2024-10-14 at 15 56 01_3465c50d](https://github.com/user-attachments/assets/dda1e113-65ad-4b7f-b895-a50539edcd62)
 
-![WhatsApp Image 2024-10-14 at 15 56 02_879de028](https://github.com/user-attachments/assets/b6522410-ee19-4990-8bb9-bec1744f7aef)
+![WhatsApp Image 2024-10-14 at 15 56 02_17a0e3c7](https://github.com/user-attachments/assets/76f2ca89-0079-4bbd-9e27-6748f8f988b3)
 
-![WhatsApp Image 2024-10-14 at 15 56 02_b1375e8e](https://github.com/user-attachments/assets/5455baf2-237b-4f58-bfd9-c94a8d21c1c9)
+![WhatsApp Image 2024-10-14 at 15 56 02_edbb7a06](https://github.com/user-attachments/assets/691a38b8-d29f-4dee-b996-ed16de5cf171)
 
 
 ### PDF Detection Interface
-![WhatsApp Image 2024-10-14 at 15 56 03_a35c1e4e](https://github.com/user-attachments/assets/9eb537f9-8b5c-49c7-b5e9-4cdf0b6493ce)
+![WhatsApp Image 2024-10-14 at 15 56 03_aa143bf4](https://github.com/user-attachments/assets/7d6073dd-6418-49cc-92cd-72d8d9f1a954)
 
-![WhatsApp Image 2024-10-14 at 15 56 03_91c0e5f6](https://github.com/user-attachments/assets/efa5fd43-9d59-4bc8-9438-497444c44ab3)
+![WhatsApp Image 2024-10-14 at 15 56 03_2961561f](https://github.com/user-attachments/assets/36bdf0eb-208f-4cc0-8203-a36b4e874897)
+
 
 ### CSV Recognition Interface
-![WhatsApp Image 2024-10-14 at 15 56 03_02af4ca0](https://github.com/user-attachments/assets/e0a9e89f-5de3-45d0-a2fe-368322e67074)
-
+![WhatsApp Image 2024-10-14 at 15 56 03_7105d476](https://github.com/user-attachments/assets/6540b6c9-24eb-4f21-aa93-ca3649c8dfb5)
 
 ### Image Recognition Interface
-![WhatsApp Image 2024-10-14 at 15 56 04_125c8482](https://github.com/user-attachments/assets/7332a566-a93f-4cee-bb93-a9b280e78514)
+![WhatsApp Image 2024-10-14 at 15 56 04_2b23ad0f](https://github.com/user-attachments/assets/32bae964-58a8-40a0-b0c0-708d6fc72aa3)
+
+### Chat Interface
+![WhatsApp Image 2024-10-14 at 15 56 04_81de2103](https://github.com/user-attachments/assets/f69d0256-694d-48ee-8d83-e5fc82531d77)
+
 
 ### Example
+![WhatsApp Image 2024-11-27 at 16 33 06_123d76fe](https://github.com/user-attachments/assets/4adbb1b2-0ee3-4391-bd02-2f37910d4cdb)
+
+![WhatsApp Image 2024-11-27 at 16 33 06_3e1549cd](https://github.com/user-attachments/assets/19763ba6-53e9-4c1f-8da6-8923b757710f)
+
+![WhatsApp Image 2024-11-27 at 16 33 06_0ab57df0](https://github.com/user-attachments/assets/7c80e793-a54e-4076-9dd2-12ff31621ccc)
+
 ![WhatsApp Image 2024-11-27 at 16 33 05_7b7a1003](https://github.com/user-attachments/assets/e6651d51-e37d-4309-be7a-656938d0813a)
 
-![WhatsApp Image 2024-11-27 at 16 33 05_88b4d165](https://github.com/user-attachments/assets/e2913c13-0f6f-4234-a98f-0a8072374e57)
+![WhatsApp Image 2024-11-27 at 16 33 05_a1be8900](https://github.com/user-attachments/assets/058a9aa9-924f-43c4-8e20-72ece04528cf)
 
-![WhatsApp Image 2024-11-27 at 16 33 06_58ad5a61](https://github.com/user-attachments/assets/ef9781ec-9df3-4018-9000-bde8096b55a0)
-
-![WhatsApp Image 2024-11-27 at 16 33 06_475b1188](https://github.com/user-attachments/assets/6d4b9d7e-3751-45a6-a3e3-8ed6acfde607)
-
-![WhatsApp Image 2024-11-27 at 16 33 07_50e4eaa5](https://github.com/user-attachments/assets/5674db8c-67b2-4257-b574-cce6893d19c4)
+![WhatsApp Image 2024-11-27 at 16 33 07_8fd628ec](https://github.com/user-attachments/assets/6e68555e-726a-436c-806e-548107ac110b)
 
 
 ## Team Members
