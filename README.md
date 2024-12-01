@@ -81,7 +81,7 @@ The **AI-Powered Medicare Chatbot** is designed to assist users with Medicare-re
 ![WhatsApp Image 2024-10-14 at 15 56 04_125c8482](https://github.com/user-attachments/assets/7332a566-a93f-4cee-bb93-a9b280e78514)
 
 ### Example
-![WhatsApp Image 2024-11-27 at 16 33 05_9623dd26](https://github.com/user-attachments/assets/d85feb72-82f3-43a6-9d85-3ca7e262093e)
+![WhatsApp Image 2024-11-27 at 16 33 05_7b7a1003](https://github.com/user-attachments/assets/e6651d51-e37d-4309-be7a-656938d0813a)
 
 ![WhatsApp Image 2024-11-27 at 16 33 05_88b4d165](https://github.com/user-attachments/assets/e2913c13-0f6f-4234-a98f-0a8072374e57)
 
